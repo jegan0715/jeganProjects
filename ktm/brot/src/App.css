@@ -1,0 +1,461 @@
+.div1 {
+  margin-left: 2%;
+  margin-top: 3%;
+}
+.div2 {
+  width: 45%;
+  font-size: 100%;
+}
+.div3 {
+  width: 5%;
+  font-size: 110%;
+}
+.div4 {
+  width: 6%;
+  font-size: 110%;
+}
+.div5 {
+  width: 5%;
+  font-size: 110%;
+}
+.div6 {
+  width: 10%;
+  margin-left: 100%;
+}
+.div3:hover {
+  color: blueviolet;
+}
+.div4:hover {
+  color: blueviolet;
+}
+.div5:hover {
+  color: blueviolet;
+}
+.div7 {
+  font-family: fantasy;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.div8 {
+  margin-top: 1%;
+  margin-left: 5%;
+  font-size: 800%;
+  color: blueviolet;
+}
+.div9 {
+  margin-top: 1%;
+  margin-left: 5%;
+  font-size: 800%;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+}
+.div10 {
+  margin-left: 5%;
+  font-size: 800%;
+}
+.div11 {
+  margin-left: 69%;
+  position: absolute;
+  top: 25%;
+  width: 30%;
+  border-radius: 50%;
+}
+.div20 {
+  margin-top: 10%;
+  margin-left: 5%;
+}
+.div25 {
+  display: flex;
+}
+.div21 {
+  width: 40%;
+  margin-left: 5%;
+}
+.div22 {
+  width: 40%;
+}
+.div26 {
+  position: absolute;
+  top: 350%;
+  margin-left: 5%;
+}
+.div27 {
+  position: absolute;
+  top: 355%;
+  margin-left: 5%;
+}
+.div28 {
+  position: absolute;
+  top: 360%;
+  margin-left: 5%;
+}
+.div29 {
+  position: absolute;
+  top: 365%;
+  margin-left: 5%;
+}
+.div30 {
+  position: absolute;
+  top: 350%;
+  margin-left: 45%;
+}
+.div31 {
+  position: absolute;
+  top: 355%;
+  margin-left: 45%;
+}
+.div32 {
+  position: absolute;
+  top: 360%;
+  margin-left: 45%;
+}
+.div33 {
+  position: absolute;
+  top: 365%;
+  margin-left: 45%;
+}
+.div34 {
+  position: absolute;
+  top: 350%;
+  margin-left: 85%;
+}
+.div35 {
+  position: absolute;
+  top: 355%;
+  margin-left: 85%;
+}
+.div36 {
+  position: absolute;
+  top: 360%;
+  margin-left: 85%;
+}
+.div37 {
+  position: absolute;
+  top: 365%;
+  margin-left: 85%;
+}
+.b {
+  margin-top: 18%;
+}
+.di1 {
+  margin-left: 5%;
+  position: absolute;
+  top: 278%;
+}
+.di2 {
+  margin-left: 55%;
+  position: absolute;
+  top: 277%;
+}
+
+.di3 {
+  margin-left: 5%;
+}
+.di4 {
+  margin-left: 5%;
+
+  position: absolute;
+  top: 290%;
+}
+.di5 {
+  margin-left: 55%;
+  position: absolute;
+  top: 285%;
+}
+.div40 {
+  position: absolute;
+  top: 400%;
+  left: 5%;
+}
+.div41 {
+  position: absolute;
+  top: 413%;
+  left: 5%;
+}
+.div45:hover {
+  color: blueviolet;
+}
+.div46:hover {
+  color: blueviolet;
+}
+.div47:hover {
+  color: blueviolet;
+}
+.div48:hover {
+  color: blueviolet;
+}
+.k {
+  display: flex;
+  margin-left: 5%;
+}
+.div45 {
+  width: 8%;
+}
+.div46 {
+  width: 8%;
+}
+.div47 {
+  width: 8%;
+}
+.div48 {
+  width: 5%;
+}
+.div49 {
+  font-size: 200%;
+  position: absolute;
+  left: 5%;
+  top: 480%;
+}
+.div50 {
+  font-size: 200%;
+  position: absolute;
+  left: 41%;
+  top: 480%;
+  color: blueviolet;
+}
+.div51 {
+  position: absolute;
+  left: 80%;
+}
+.div52 {
+  position: absolute;
+  left: 80%;
+  top: 485%;
+}
+.div53 {
+  position: absolute;
+  left: 92%;
+  top: 463%;
+  width: 5%;
+}
+.div54 {
+  position: absolute;
+  left: 86%;
+  top: 463%;
+  width: 5%;
+}
+.div55 {
+  position: absolute;
+  left: 80%;
+  top: 463%;
+  width: 5%;
+}
+.div53:hover {
+  border: 2px solid black;
+}
+.div54:hover {
+  border: 2px solid black;
+}
+.div55:hover {
+  border: 2px solid black;
+}
+@media (max-width: 600px) {
+  .div1 {
+    margin-left: 1%;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .div2 {
+    width: 100%;
+    font-size: 120%;
+ 
+  }
+
+  .div3,
+  .div4,
+  .div5 {
+    width: 100%;
+    font-size: 110%;
+ text-align: center;
+    margin: 0;
+  }
+
+  .div6 {
+  display: none;
+  }
+
+  .div3:hover,
+  .div4:hover,
+  .div5:hover {
+    color: blueviolet;
+  }
+
+  .div7 {
+    font-family: sans-serif; /* Use a more standard font for better readability */
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 24px; /* Adjust font size for smaller screens */
+    text-align: center; /* Center text for better presentation */
+  }
+
+  .div8,
+  .div9,
+  .div10 {
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 50px; /* Adjust font size to fit smaller screens */
+    text-align: center; /* Center text for better presentation */
+  }
+
+  .div8 {
+    color: blueviolet;
+    margin-right: 73%;
+    position: absolute;
+    top: 40%;
+  }
+
+  .div9 {
+  position: absolute;
+  top: 40%;
+  }
+
+  .div10 {
+position: absolute;
+left: 3%;
+top: 50%;
+    font-size: 50px; 
+  }
+
+  .div11 {
+    margin-left: 0; 
+    margin-top: 10px; 
+    width: 35%;
+    border-radius: 50%; 
+    position: relative;
+    display: block; 
+    left: 65%;
+    
+  }
+  
+
+
+
+
+  .div12 {
+    width: 45%;
+    height: 300px;
+    margin-top: 3%;
+    border-radius: 10%;
+  }
+  .div13 {
+    width: 50%;
+    height: 300px;
+    margin-top: 3%;
+    position: absolute;
+    left: 50%;
+    border-radius: 10%;
+  }
+  .div14 {
+    margin-top: 5%;
+    margin-left: 5%;
+  }
+  .div15 {
+    position: absolute;
+    top: 1020px;
+    left: 55%;
+  }
+  .div16 {
+    margin-left: 5%;
+  }
+  .div17 {
+    margin-left: 5%;
+    position: absolute;
+    top: 1095px;
+  }
+  .div18 {
+    margin-left: 55%;
+    position: absolute;
+    top: 1065px;
+  }
+  .div19 {
+    margin-top: 10%;
+  }
+  
+  .di1 {
+    margin-left: 5%;
+    position: absolute;
+    top: 278%;
+  }
+  .di2 {
+    margin-left: 55%;
+    position: absolute;
+    top: 277%;
+  }
+  .di3 {
+    margin-left: 5%;
+  }
+  .di4 {
+    margin-left: 5%;
+    position: absolute;
+    top: 290%;
+  }
+  .di5 {
+    margin-left: 55%;
+    position: absolute;
+    top: 285%;
+  }
+  
+  /* Mobile Styles */
+ 
+    .div12,
+    .div13 {
+      width: 100%;
+      height: auto;
+      margin-top: 0;
+    }
+  
+    .div13 {
+      position: relative;
+      left: 0;
+    }
+  
+    .div14,
+    .div15,
+    .div16,
+    .div17,
+    .div18,
+    .di1,
+    .di2,
+    .di3,
+    .di4,
+    .di5 {
+      margin: 0;
+      position: relative;
+      top: auto;
+      left: auto;
+      text-align: center;
+    }
+  
+    .div14 {
+      margin-top: 2%;
+    }
+  
+    .div15 {
+      margin-top: 1%;
+    }
+  
+    .div16,
+    .div17,
+    .div18 {
+      margin-top: 1%;
+    }
+  
+    .di1 {
+      margin-top: 2%;
+    }
+  
+    .di2 {
+      margin-top: 2%;
+    }
+  
+    .di3,
+    .di4,
+    .di5 {
+      margin-top: 1%;
+    }
+}

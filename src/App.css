@@ -1,0 +1,385 @@
+/* 
+.jega{
+  display: flex;
+  border: 2px solid rgba(249, 249, 255, 0.993);
+  height: 200px;
+  width: 100%;
+  margin-top: 5%;
+  background-color: rgb(247, 247, 232);
+  padding: 5%;
+  
+  
+}
+.je2{
+  margin-left: 49%;
+
+}
+.je3{
+  margin-left: 20%;
+}
+#je2{
+  position: absolute;
+  top: 143px;
+  left: 300px;
+  color: rgb(0, 255, 42);
+}
+#je21{
+  position: absolute;
+  top: 143px;
+  left: 43%;
+  color: rgb(0, 255, 42);
+}
+#jep{
+position: absolute;
+ margin-left: 11%;
+ top: 140px;
+
+}
+#je22{
+  position: absolute;
+  top: 143px;
+  left: 65%;
+  color: red;
+}
+#je23{
+  position: absolute;
+  top: 143px;
+  left: 88%;
+  color: red;
+}
+.k{
+  position: absolute;
+  top: 180px;
+left: 19%;
+}
+.k1{
+  position: absolute;
+  top: 180px;
+left:40%;
+}
+.k2{
+  position: absolute;
+  top: 180px;
+left: 60%;
+}
+.k3{
+  position: absolute;
+  top: 180px;
+left:85%;
+}
+#w{
+  position: absolute;
+  top: 30%;
+  left: 13%;
+ 
+
+}
+#w1{
+  position: absolute;
+  top: 30%;
+  left: 34%;
+ 
+}
+#w2{
+  position: absolute;
+  top: 30%;
+  left: 54%;
+ 
+}
+#w3{
+  position: absolute;
+  top: 30%;
+  left: 79%;
+ 
+}
+.jg{
+  border: 2px solid  rgba(240, 255, 255, 0.219);
+  height: 120px;
+  width: 20%;
+  border-radius: 15%;
+  position: absolute;
+  top: 22%;
+  left: 8%;
+  background-color: rgba(240, 255, 255, 0.219);
+}
+.jg1{
+  border: 2px solid  rgba(240, 255, 255, 0.219);
+  height: 120px;
+  width: 20%;
+  border-radius: 15%;
+  position: absolute;
+  top: 22%;
+  left: 30%;
+  background-color: rgba(240, 255, 255, 0.219);
+}
+.jg2{
+  border: 2px solid  rgba(240, 255, 255, 0.219);
+  height: 120px;
+  width: 20%;
+  border-radius: 15%;
+  position: absolute;
+  top: 22%;
+  left: 51%;
+  background-color: rgba(240, 255, 255, 0.219);
+}
+.jg3{
+  border: 2px solid  rgba(240, 255, 255, 0.219);
+  height: 120px;
+  width: 20%;
+  border-radius: 15%;
+  position: absolute;
+  top: 22%;
+  left: 72%;
+  background-color: rgba(240, 255, 255, 0.219);
+} */
+
+.je {
+  display: flex;
+  border: 2px solid rgb(116, 116, 248);
+  height: 100vh;
+  background-size: 100% 100%;
+}
+.nav {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  color: black;
+  border: 2px solid rgb(129, 129, 248);
+  background-color: rgb(129, 129, 248);
+  height: 13%;
+  padding: 1%;
+  margin-top: 2%;
+}
+.nav h1 {
+  width: 30%;
+}
+.nav-section {
+  display: flex;
+  justify-content: space-evenly;
+  width: 70%;
+}
+.nav-item {
+  list-style: none;
+}
+.nav-item a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.mo1 {
+  display: none;
+}
+
+img {
+  width: 100%;
+  height: 80%;
+}
+
+.div11:hover .mo {
+  display: none;
+}
+
+.div11:hover .mo1 {
+  display: block;
+}
+.p {
+  margin-top: 1%;
+  color: rgb(54, 54, 97);
+}
+.h {
+  margin-top: 2%;
+  color: rgb(52, 52, 245);
+}
+.o {
+  border: 2px solid rgb(255, 123, 0);
+  background-color: rgb(255, 123, 0);
+  width: 8%;
+  height: 5%;
+  margin-left: 29%;
+  margin-top: 1%;
+  position: absolute;
+}
+.div12:hover .j {
+  display: none;
+}
+.div11:hover .j1 {
+  display: block;
+}
+.j1 {
+  display: none;
+}
+.b {
+  width: 100%;
+  height: 600px;
+}
+
+.b1 {
+  display: block;
+  width: 100%;
+  height: 600px;
+}
+
+.b2 {
+  display: none;
+  width: 100%;
+  height: 100%;
+}
+
+.b:hover .b1 {
+  display: none;
+}
+
+.b:hover .b2 {
+  display: block;
+}
+.lo {
+  color: rgb(201, 153, 153);
+  text-align: center;
+  font-size: 200%;
+  margin-top: 15%;
+}
+.k {
+  margin-top: 1%;
+  color: rgb(52, 52, 245);
+}
+
+.div11 {
+  margin-top: 10%;
+}
+.jegan {
+  height: 50%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 4px;
+  max-width: 1200px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.lov {
+  margin-top: 1%;
+  color: rgb(54, 54, 97);
+}
+.s {
+  margin-left: 90%;
+  position: absolute;
+  top: 379%;
+}
+.m {
+  margin-top: 10%;
+}
+.c {
+  position: absolute;
+  top: 399%;
+  left: 28%;
+  color: rgb(54, 54, 97);
+  font-size: 300%;
+}
+.a {
+  position: absolute;
+  top: 410%;
+  left: 40%;
+  font-size: 20px;
+  color: rgb(54, 54, 97);
+}
+
+.jo {
+  width: 90%;
+  height: 100%;
+  margin-top: 5%;
+}
+
+.js {
+  display: block;
+}
+
+.jk {
+  display: none;
+}
+
+.jo:hover .js {
+  display: none;
+}
+
+.jo:hover .jk {
+  display: block;
+}
+.jko {
+  border: 2px solid rgb(255, 123, 0);
+  background-color: rgb(255, 123, 0);
+  margin-left: 266px;
+  margin-top: 1%;
+  position: absolute;
+}
+
+.jkol {
+  margin-top: 4%;
+  color:  rgb(52, 52, 245);
+}
+.jkolr {
+  margin-left: 24%;
+  margin-top: 1%;
+  position: absolute;
+}
+.jd {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1%;
+  margin-left: 4%;
+  margin-top: 5%;
+}
+
+  
+
+.vg {
+  display: flex;                  
+  flex-wrap: wrap;                 
+  justify-content: space-between; 
+  background-color:rgb(82, 82, 153);          
+  color:  rgb(170, 160, 160);                     
+  padding: 20px;                  
+  box-sizing: border-box;  
+  margin-top: 10%;        
+}
+
+
+.vg > div {
+  flex: 1;                        
+  margin: 10px;                   
+}
+.po{
+  font-size: 80%;
+}
+
+
+.vg1 {
+  font-size: 1.2em;                
+  margin-bottom: 10px;             
+}
+
+
+.vg2 {
+  display: block;                  
+  color:  rgb(170, 160, 160);                     
+  text-decoration: none;          
+  margin-bottom: 8px;              
+}
+
+.vg2:hover {
+  text-decoration: underline;      
+}
+
+.p {
+   
+  text-align: center;                 
+}
+
+
+
+
+
+
+
+
